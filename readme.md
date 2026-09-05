@@ -205,13 +205,13 @@ which stores the embeddings and vector index used by the chatbot.
 Using Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run app1.py
 ```
 
 Using uv:
 
 ```bash
-uv run streamlit run app.py
+uv run streamlit run app1.py
 ```
 
 ---
@@ -327,7 +327,7 @@ Add screenshots of:
 
 # 👨‍💻 Author
 
-**Your Name**
+Priyanka L Hittalamani
 
 Computer Science Engineering Student
 
